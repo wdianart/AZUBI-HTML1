@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BORA INTERIORS</title>
+    <link rel="icon" href="/images/favicon.ico">
+    <meta name="author" content="Diana Wairimu">
+    <meta name="keywords" content="Interiors">
+</head>
+<body>
+    <h1>About us</h1>
+    <!--this is the first heading -->
+    <h2>Contacts</h2>
+    <!--this is the second heading-->
+    <p>This is the official ,<strong>Bora Interiors</strong> website,<u> we bring all your interior design pins and dreams to reality.</u> You are welcome to explore and be part of us</p>
+    <p>We also offer <em>extensive</em> consultancy for all your needs and advice on the right ways to style and keep your house admirable.</p>
+</body>
+</html>
